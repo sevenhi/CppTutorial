@@ -1,6 +1,0 @@
-/home/seven/codespace/first_day/build/CMakeFiles/edit_cache.dir
-/home/seven/codespace/first_day/build/CMakeFiles/rebuild_cache.dir
-/home/seven/codespace/first_day/build/CMakeFiles/cppFirstDay.dir
-/home/seven/codespace/first_day/build/test/CMakeFiles/rebuild_cache.dir
-/home/seven/codespace/first_day/build/test/CMakeFiles/edit_cache.dir
-/home/seven/codespace/first_day/build/test/CMakeFiles/cppFirstDayTest.dir
